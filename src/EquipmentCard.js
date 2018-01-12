@@ -29,9 +29,9 @@ const DateField = styled.span`
 `;
 
 const images = {
-  Dozer: "http://s7d2.scene7.com/is/image/Caterpillar/C10759303?$cc-g$",
-  Truck: "http://s7d2.scene7.com/is/image/Caterpillar/C833062?$cc-g$",
-  Excavator: "http://s7d2.scene7.com/is/image/Caterpillar/C10682189?$cc-g$",
+  Dozer: "https://s7d2.scene7.com/is/image/Caterpillar/C10759303?$cc-g$",
+  Truck: "https://s7d2.scene7.com/is/image/Caterpillar/C833062?$cc-g$",
+  Excavator: "https://s7d2.scene7.com/is/image/Caterpillar/C10682189?$cc-g$",
   Other:
     "https://www.shareicon.net/download/2016/09/21/830667_caution_512x512.png"
 };
