@@ -3,7 +3,6 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@particles/file-explorer": "^2.1.1",
     "@procore/core-react": "^3.5.1",
     "babel-plugin-react-css-modules": "^3.3.2",
     "react": "^16.2.0",

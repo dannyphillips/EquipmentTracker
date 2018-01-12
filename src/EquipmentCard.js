@@ -13,6 +13,9 @@ const Title = styled.h2`
 `;
 const Image = styled.img`
   text-align: center;
+  width: 200px;
+  height: 200px;
+  margin: 30px;
 `;
 const bgToken = ({ inspected }) => {
  return (inspected === "true") ? 'green' : 'red';
@@ -29,11 +32,13 @@ const images = {
   Dozer: "http://s7d2.scene7.com/is/image/Caterpillar/C10759303?$cc-g$",
   Truck: "http://s7d2.scene7.com/is/image/Caterpillar/C833062?$cc-g$",
   Excavator: "http://s7d2.scene7.com/is/image/Caterpillar/C10682189?$cc-g$",
+  Other:
+    "https://www.shareicon.net/download/2016/09/21/830667_caution_512x512.png"
 };
 
 export class EquipmentCard extends Component {
   getImage(equipment) {
-    let image = null;
+    let image = images["Other"];
     Object.keys(images).map(function(key, index) {
       if (equipment.name.includes(key)) {image = images[key]}
       return images[key]
@@ -45,7 +50,7 @@ export class EquipmentCard extends Component {
     const { equipment, inspected, date } = this.props.data;
     return <ECard>
         <Title>{equipment.name}</Title>
-        <Image src={this.getImage(equipment)} width="200" alt="" />
+        <Image src={this.getImage(equipment)} alt="" />
         <div>
           <InspectedToken inspected={inspected.toString()}>
             <Token.Label>
