@@ -17,7 +17,6 @@ class App extends Component {
               <Tabs.Tab variant="active"><Tabs.Link label="Active" /></Tabs.Tab>
             </Tabs>
           </ToolHeader.Section>
-
           <ToolHeader.Section>
             <Button>Upload!</Button>
           </ToolHeader.Section>
