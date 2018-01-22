@@ -1,0 +1,33 @@
+{
+  "name": "EquipmentTracker",
+  "schema_version": "1.0",
+  "version": "0.0.0",
+  "icon": "icon.png",
+  "features": [
+    {
+      "SPA": {
+        "start_url" : "http://localhost:3001"
+      }
+    },
+    {
+      "widget": {
+        "start_url" : "http://localhost:3001",
+        "zones" : [
+          "header",
+          "sidebar",
+          "footer"
+        ]
+      }
+    },
+    {
+      "ui_action" : {
+        "type" : "context_menu",
+        "start_url": "http://localhost:3001",
+        "location" : "field_productivity.crews.create.context_menu",
+        "action" : "javascript_do_something()", 
+        "tokens" : "",
+        "label" : "Create Me..."
+      }
+    }
+  ]
+}

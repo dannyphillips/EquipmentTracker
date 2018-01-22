@@ -13,7 +13,8 @@
   "homepage": ".",
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "react-scripts build && yarn run build:clean",
+    "build:clean": "sh cleanup.sh",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",

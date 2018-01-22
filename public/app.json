@@ -1,0 +1,6 @@
+{
+  "name": "EquipmentTracker",
+  "version": "0.0.0",
+  "icon": "icon.png",
+  "start_url": "./main.js"
+}
