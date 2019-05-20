@@ -6,7 +6,7 @@
     "@procore/core-react": "^3.5.1",
     "babel-plugin-react-css-modules": "^3.3.2",
     "react": "^16.2.0",
-    "react-dom": "^16.2.0",
+    "react-dom": "^16.2.1",
     "react-scripts": "1.0.17",
     "styled-components": "^2.4.0"
   },
