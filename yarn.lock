@@ -20,20 +20,20 @@
     lodash "^4.17.11"
     to-fast-properties "^2.0.0"
 
-"@procore/core-css@^7.5.0":
-  version "7.5.0"
-  resolved "https://registry.yarnpkg.com/@procore/core-css/-/core-css-7.5.0.tgz#3f074d0916d8f4dc1a18ef9b8ec9697bbd50be4e"
+"@procore/core-css@^7.6.0":
+  version "7.6.0"
+  resolved "https://registry.yarnpkg.com/@procore/core-css/-/core-css-7.6.0.tgz#7f1a2fdd236901dfdc08cadd6b9a0c81fe08518b"
   dependencies:
     flexboxgrid2 "7.2.1"
 
-"@procore/core-react@^7.5.0":
-  version "7.5.0"
-  resolved "https://registry.yarnpkg.com/@procore/core-react/-/core-react-7.5.0.tgz#64359f0d4ecb2bb73e129cb5d7ea98918422de05"
+"@procore/core-react@^7.6.0":
+  version "7.6.0"
+  resolved "https://registry.yarnpkg.com/@procore/core-react/-/core-react-7.6.0.tgz#c6c79138fc4b28ee28e933aae1d03197dff3b91d"
   dependencies:
-    "@procore/core-css" "^7.5.0"
-    "@procore/core-utils" "^7.5.0"
+    "@procore/core-css" "^7.6.0"
+    "@procore/core-utils" "^7.6.0"
     "@procore/event-journal" "0.4.2"
-    "@tinymce/tinymce-react" "3.1.1"
+    "@tinymce/tinymce-react" "3.2.0"
     classnames "2.2.6"
     lodash.throttle "4.1.1"
     prop-types-docs "0.5.0"
@@ -41,9 +41,9 @@
     react-flexbox-grid "2.1.2"
     ulid "2.3.0"
 
-"@procore/core-utils@^7.5.0":
-  version "7.5.0"
-  resolved "https://registry.yarnpkg.com/@procore/core-utils/-/core-utils-7.5.0.tgz#b4683daede2c48b38ccf5b3ee547858780c611a4"
+"@procore/core-utils@^7.6.0":
+  version "7.6.0"
+  resolved "https://registry.yarnpkg.com/@procore/core-utils/-/core-utils-7.6.0.tgz#93b69930137997002e0365ac98bd01257e288de7"
   dependencies:
     lodash.throttle "4.1.1"
     ramda "0.26.1"
@@ -54,9 +54,9 @@
   dependencies:
     ramda "^0.25.0"
 
-"@tinymce/tinymce-react@3.1.1":
-  version "3.1.1"
-  resolved "https://registry.yarnpkg.com/@tinymce/tinymce-react/-/tinymce-react-3.1.1.tgz#13ca3f988cbe6bfb9c67649ae6f986648b73aa73"
+"@tinymce/tinymce-react@3.2.0":
+  version "3.2.0"
+  resolved "https://registry.yarnpkg.com/@tinymce/tinymce-react/-/tinymce-react-3.2.0.tgz#c15d39db0bae0a63c2555b6f5d50917da921f3d4"
   dependencies:
     prop-types "^15.6.2"
 

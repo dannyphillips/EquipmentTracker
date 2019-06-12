@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@procore/core-react": "^7.5.0",
+    "@procore/core-react": "^7.6.0",
     "babel-plugin-react-css-modules": "^5.2.6",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
