@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://dannyphillips.github.io/EquipmentTracker/precache-manifest.3857ec1b23582555897ffdc6c95bfb29.js"
+  "https://dannyphillips.github.io/EquipmentTracker/precache-manifest.8c547de96fcb16145c29fa4969ddcd8a.js"
 );
 
 self.addEventListener('message', (event) => {
