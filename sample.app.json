@@ -6,27 +6,23 @@
   "features": [
     {
       "SPA": {
-        "start_url" : "http://localhost:3001"
+        "start_url": "http://localhost:3001"
       }
     },
     {
       "widget": {
-        "start_url" : "http://localhost:3001",
-        "zones" : [
-          "header",
-          "sidebar",
-          "footer"
-        ]
+        "start_url": "http://localhost:3001",
+        "zones": ["header", "sidebar", "footer"]
       }
     },
     {
-      "ui_action" : {
-        "type" : "context_menu",
+      "ui_action": {
+        "type": "context_menu",
         "start_url": "http://localhost:3001",
-        "location" : "field_productivity.crews.create.context_menu",
-        "action" : "javascript_do_something()", 
-        "tokens" : "",
-        "label" : "Create Me..."
+        "location": "field_productivity.crews.create.context_menu",
+        "action": "javascript_do_something()",
+        "tokens": "",
+        "label": "Create Me..."
       }
     }
   ]
