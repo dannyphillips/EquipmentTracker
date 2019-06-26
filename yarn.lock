@@ -1112,20 +1112,20 @@
   resolved "https://registry.yarnpkg.com/@nodelib/fs.stat/-/fs.stat-1.1.3.tgz#2b5a3ab3f918cca48a8c754c08168e3f03eba61b"
   integrity sha512-shAmDyaQC4H92APFoIaVDHCx5bStIocgvbwQyxPRrbUY20V1EYTbSDchWbuwlMG3V17cprZhA6+78JfB+3DTPw==
 
-"@procore/core-css@^7.8.0":
-  version "7.8.0"
-  resolved "https://registry.yarnpkg.com/@procore/core-css/-/core-css-7.8.0.tgz#a743862b3d95dfaa269cc2065ecf534384355fa9"
-  integrity sha512-+0QfX96a0W0Abe5xn8xjVtaZgkPRiyiaH39N5pLzJBq1B7SSE57hnl6IjqeXUp3eEr58oSnqh+0uz4ZMEanOOw==
+"@procore/core-css@^7.9.0":
+  version "7.9.0"
+  resolved "https://registry.yarnpkg.com/@procore/core-css/-/core-css-7.9.0.tgz#396f60a461d07344eec00c599a521203fda10654"
+  integrity sha512-0CQXZdDc8zQwHVJXFzK7g+YT0LWeFvZmLArjAFHp6fmZ6xWLgThEFOWGA09kuihmehPISYJ8Yo7MSE7+yEmG5A==
   dependencies:
     flexboxgrid2 "7.2.1"
 
-"@procore/core-react@7.8.0":
-  version "7.8.0"
-  resolved "https://registry.yarnpkg.com/@procore/core-react/-/core-react-7.8.0.tgz#d9c091d7032da6d14cbedfa30b1881161c2e36bf"
-  integrity sha512-9XP4NGt6HtgeErnG1oOO+NDl+5jdB1EBUZdk56r2pM4RwnWj0mVqpnmoiY0UCJIsVjtH6xf2mighu7qNrYa2Dw==
+"@procore/core-react@7.9.0":
+  version "7.9.0"
+  resolved "https://registry.yarnpkg.com/@procore/core-react/-/core-react-7.9.0.tgz#216bacdcb67cc33807ae73c2be428232a1f4bca9"
+  integrity sha512-66ZlZb81Q84vl6w5saA/Yc7dvqm1dJjJpiK3/cnHI1osRNwAQp/LY6Z1Qq3yKwmz/CXhT5GCMA2TWNv2SFoqIg==
   dependencies:
-    "@procore/core-css" "^7.8.0"
-    "@procore/core-utils" "^7.8.0"
+    "@procore/core-css" "^7.9.0"
+    "@procore/core-utils" "^7.9.0"
     "@procore/event-journal" "0.4.2"
     "@tinymce/tinymce-react" "3.2.0"
     classnames "2.2.6"
@@ -1135,10 +1135,10 @@
     react-flexbox-grid "2.1.2"
     ulid "2.3.0"
 
-"@procore/core-utils@^7.8.0":
-  version "7.8.0"
-  resolved "https://registry.yarnpkg.com/@procore/core-utils/-/core-utils-7.8.0.tgz#cf65d8f6ce37da8dfbe3eba509a44320999c73d1"
-  integrity sha512-m+hu84n4ZTytog0c1PCpgUbde5w3wGQh1LBagDcA5UOUXvD41sA6QZiLuR9+s3zrkHXGXVuCYPOXYBKFya4usg==
+"@procore/core-utils@^7.9.0":
+  version "7.9.0"
+  resolved "https://registry.yarnpkg.com/@procore/core-utils/-/core-utils-7.9.0.tgz#988e2632a7128f713676bb07ff7678fbc5a2d49e"
+  integrity sha512-8j1/EYCkcBwEsPPJL3w6EYchdTJb2v5eP55yuhKqvELdNFNejwxuXsWwBt7ZuUZY9gHop8OMywmTRXBigiYFSg==
   dependencies:
     lodash.throttle "4.1.1"
     ramda "0.26.1"
