@@ -1112,19 +1112,19 @@
   resolved "https://registry.yarnpkg.com/@nodelib/fs.stat/-/fs.stat-1.1.3.tgz#2b5a3ab3f918cca48a8c754c08168e3f03eba61b"
   integrity sha512-shAmDyaQC4H92APFoIaVDHCx5bStIocgvbwQyxPRrbUY20V1EYTbSDchWbuwlMG3V17cprZhA6+78JfB+3DTPw==
 
-"@procore/core-css@^7.16.0":
-  version "7.16.0"
-  resolved "https://registry.yarnpkg.com/@procore/core-css/-/core-css-7.16.0.tgz#673154f63bc2dfd7e62f46e978e7cd6c805192a8"
-  integrity sha512-geg22MhzY4kMAiA6PzAlT2sL1onLasWBGzirz2hzIMxiDjYcDIY+7vDiJu+Hzu9M/lNMIMdSabkExs0RstNfOw==
+"@procore/core-css@^7.20.0":
+  version "7.20.0"
+  resolved "https://registry.yarnpkg.com/@procore/core-css/-/core-css-7.20.0.tgz#862395e98e79efdbbcfe492c0549e2f8716aa96c"
+  integrity sha512-ebku1cswD3acOuypg3SrF6wh41R0xwFWqvR5Uf5LjhL6+5K9yb9/PC+ABejB8d9yZtdvirluTR29a/UFhcdcTA==
   dependencies:
     flexboxgrid2 "7.2.1"
 
-"@procore/core-react@7.16.0":
-  version "7.16.0"
-  resolved "https://registry.yarnpkg.com/@procore/core-react/-/core-react-7.16.0.tgz#594cff64fe8be1d5ac094d492e48cde9249a773c"
-  integrity sha512-TmlgWpbxKP3WKVuiRPkVCax2rXSTuxFeUaSl47N6eVH8wS+A7rAO4a6PKtTUIiptfmlJhbvLyUBpfARN9Tz/2w==
+"@procore/core-react@7.20.0":
+  version "7.20.0"
+  resolved "https://registry.yarnpkg.com/@procore/core-react/-/core-react-7.20.0.tgz#5689b0bf80e8a4834c1cc3291062893a76b90df8"
+  integrity sha512-X7dNWA4d+/80GaPv7s5+W5IZIhTwwKMZ02zh0nNTzvhqx6HmgzKYDc9M7UpznuihDCZkagEoulvcLUSNY6p0mg==
   dependencies:
-    "@procore/core-css" "^7.16.0"
+    "@procore/core-css" "^7.20.0"
     "@procore/event-journal" "0.4.2"
     "@tinymce/tinymce-react" "3.3.2"
     classnames "2.2.6"
