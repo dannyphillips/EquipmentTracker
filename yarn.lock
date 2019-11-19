@@ -1112,22 +1112,30 @@
   resolved "https://registry.yarnpkg.com/@nodelib/fs.stat/-/fs.stat-1.1.3.tgz#2b5a3ab3f918cca48a8c754c08168e3f03eba61b"
   integrity sha512-shAmDyaQC4H92APFoIaVDHCx5bStIocgvbwQyxPRrbUY20V1EYTbSDchWbuwlMG3V17cprZhA6+78JfB+3DTPw==
 
-"@procore/core-css@^7.16.0":
-  version "7.16.0"
-  resolved "https://registry.yarnpkg.com/@procore/core-css/-/core-css-7.16.0.tgz#673154f63bc2dfd7e62f46e978e7cd6c805192a8"
-  integrity sha512-geg22MhzY4kMAiA6PzAlT2sL1onLasWBGzirz2hzIMxiDjYcDIY+7vDiJu+Hzu9M/lNMIMdSabkExs0RstNfOw==
+"@procore/core-css@8.0.1":
+  version "8.0.1"
+  resolved "https://registry.yarnpkg.com/@procore/core-css/-/core-css-8.0.1.tgz#1c48fd5e69a683cbfe5437bc77058348abbb303b"
+  integrity sha512-1X6SUFB2IsZOQR5rnr0NpcY1BKmDuggLIwNtLHkt0zp06KDAazIjdb/gpOnblh9yubl4Qj5U2tiCP4a1Moq00w==
   dependencies:
     flexboxgrid2 "7.2.1"
 
-"@procore/core-react@7.16.0":
-  version "7.16.0"
-  resolved "https://registry.yarnpkg.com/@procore/core-react/-/core-react-7.16.0.tgz#594cff64fe8be1d5ac094d492e48cde9249a773c"
-  integrity sha512-TmlgWpbxKP3WKVuiRPkVCax2rXSTuxFeUaSl47N6eVH8wS+A7rAO4a6PKtTUIiptfmlJhbvLyUBpfARN9Tz/2w==
+"@procore/core-icons@8.0.0":
+  version "8.0.0"
+  resolved "https://registry.yarnpkg.com/@procore/core-icons/-/core-icons-8.0.0.tgz#5fa23de69cdb4cfdde8d518ae08e29f7bfc98e11"
+  integrity sha512-4VxbGPnsjtXDhT1/2kR0pxFMdS7iPbuOet/ZapkJbrrMAx9/SkpOz9oUAxAPqzvBSSL4moipbc/DB3nDtFe09g==
+
+"@procore/core-react@8.0.1":
+  version "8.0.1"
+  resolved "https://registry.yarnpkg.com/@procore/core-react/-/core-react-8.0.1.tgz#ec501f46f2e362d6d8378796f55a71fc797be9dd"
+  integrity sha512-SXRIu5FGjZnLgOb5zIAwIg+LnI4kNv0LQ7hKX9/wHJoCm70h20LwX7LfSu5e84cwRYOPeQXBEQKd9cMvcQ9sDg==
   dependencies:
-    "@procore/core-css" "^7.16.0"
+    "@procore/core-css" "8.0.1"
+    "@procore/core-icons" "8.0.0"
     "@procore/event-journal" "0.4.2"
     "@tinymce/tinymce-react" "3.3.2"
     classnames "2.2.6"
+    date-fns "1.30.1"
+    i18n-js "3.5.0"
     lodash.throttle "4.1.1"
     ramda "0.26.1"
     react-flexbox-grid "2.1.2"
@@ -3126,6 +3134,11 @@ data-urls@^1.0.0, data-urls@^1.1.0:
     whatwg-mimetype "^2.2.0"
     whatwg-url "^7.0.0"
 
+date-fns@1.30.1:
+  version "1.30.1"
+  resolved "https://registry.yarnpkg.com/date-fns/-/date-fns-1.30.1.tgz#2e71bf0b119153dbb4cc4e88d9ea5acfb50dc05c"
+  integrity sha512-hBSVCvSmWC+QypYObzwGOd9wqdDpOt+0wl0KbU+R+uuZBS1jN8VsD1ss3irQDknRj5NvxiTF6oj/nDRnN/UQNw==
+
 date-now@^0.1.4:
   version "0.1.4"
   resolved "https://registry.yarnpkg.com/date-now/-/date-now-0.1.4.tgz#eaf439fd4d4848ad74e5cc7dbef200672b9e345b"
@@ -4718,6 +4731,11 @@ humanize-url@^1.0.0:
   dependencies:
     normalize-url "^1.0.0"
     strip-url-auth "^1.0.0"
+
+i18n-js@3.5.0:
+  version "3.5.0"
+  resolved "https://registry.yarnpkg.com/i18n-js/-/i18n-js-3.5.0.tgz#e2c41e1f90405d691d33ddce260f3dff9743215e"
+  integrity sha512-XosH7plfEisWo5XEYxkdlwONsDVQ3sYI3ZoKXcjXdyq+9eVNIJg2h2oPsgadfqcXxpPHMVMNBgmiyW3aEJXg1g==
 
 iconv-lite@0.4.23:
   version "0.4.23"
