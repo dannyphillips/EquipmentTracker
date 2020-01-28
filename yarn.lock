@@ -1240,30 +1240,35 @@
   resolved "https://registry.yarnpkg.com/@nodelib/fs.stat/-/fs.stat-1.1.3.tgz#2b5a3ab3f918cca48a8c754c08168e3f03eba61b"
   integrity sha512-shAmDyaQC4H92APFoIaVDHCx5bStIocgvbwQyxPRrbUY20V1EYTbSDchWbuwlMG3V17cprZhA6+78JfB+3DTPw==
 
-"@procore/core-css@8.1.0":
-  version "8.1.0"
-  resolved "https://registry.yarnpkg.com/@procore/core-css/-/core-css-8.1.0.tgz#2b6ff87f7fb1fb606af62fcfee2750c14ebde402"
-  integrity sha512-19XPE39WetxCNG1K3J8//roy6A6VhmSgaMawkaibpyQ+gqd+k3Mb2o5ChWHjz5igizb7xTUiEriy4FWEjvXJHA==
+"@procore/core-css@8.3.0":
+  version "8.3.0"
+  resolved "https://registry.yarnpkg.com/@procore/core-css/-/core-css-8.3.0.tgz#531fd40cf99f4d9cbac44c2416e6ede39d44d2fa"
+  integrity sha512-BheLQ5zSSmWRfc7Yh8FXTfVPea22FnvUsHvIhL1aXT3By7V7gcAJgv4rK/S6/o2PVT+sVFC6zPTXpP4X7FOrAw==
   dependencies:
     flexboxgrid2 "7.2.1"
 
-"@procore/core-icons@8.1.0":
-  version "8.1.0"
-  resolved "https://registry.yarnpkg.com/@procore/core-icons/-/core-icons-8.1.0.tgz#fcc72bc8692a3045f73e791acf3e67000c27ba61"
-  integrity sha512-7oRjIUkpdxMEuLNzdxpJsQvcQLxb4by3MPjLd3s8sCfTbeW/0oEEAjmfRreoaYUhaaBDHxVpxNboSVGYFiCsSw==
+"@procore/core-i18n-js@8.3.0":
+  version "8.3.0"
+  resolved "https://registry.yarnpkg.com/@procore/core-i18n-js/-/core-i18n-js-8.3.0.tgz#14b33d5b857e3288758eff8c8d0cb42cb4c5d5bb"
+  integrity sha512-ZSnrhPcMDOPr14ymDyoyNow3p7x1mqIgMqyRzy2zPpu98I7sofucaFwciW/w93Z5D+S+BUVd6jDZtbIVNXGPSA==
 
-"@procore/core-react@8.1.0":
-  version "8.1.0"
-  resolved "https://registry.yarnpkg.com/@procore/core-react/-/core-react-8.1.0.tgz#170f76272a13ee762c926046708ac056f7f0ceb2"
-  integrity sha512-u+OBjBxfNj1kkJUhf1o29OZ9a2O2K1AkIIUVArunfqECes7uJK67SfJ4klzKdMH7zYudiIlPGoeOPKvjr/aFEQ==
+"@procore/core-icons@8.3.0":
+  version "8.3.0"
+  resolved "https://registry.yarnpkg.com/@procore/core-icons/-/core-icons-8.3.0.tgz#114c168bca78280b21f24faff32025039d621796"
+  integrity sha512-uS7t2fGvqoomBKq6vCUFw7i1rh/+8teTQAx63ZCVHTchBmUTk+MBnQn2KR0MsJltyS+BMGC+dMkXywUrekXPAw==
+
+"@procore/core-react@8.3.0":
+  version "8.3.0"
+  resolved "https://registry.yarnpkg.com/@procore/core-react/-/core-react-8.3.0.tgz#32caee3a40b36adb083f3960a98eaf2d15503fdb"
+  integrity sha512-hdNjBEaHg0Ki57sFc6f4NEh9qgvpFHFA4wi5uMMnWOogzmXawv+SlcmUnPUFixYellx/tby0OdRaht0A+0a/eg==
   dependencies:
-    "@procore/core-css" "8.1.0"
-    "@procore/core-icons" "8.1.0"
+    "@procore/core-css" "8.3.0"
+    "@procore/core-i18n-js" "8.3.0"
+    "@procore/core-icons" "8.3.0"
     "@procore/event-journal" "0.4.2"
     "@tinymce/tinymce-react" "3.3.2"
     classnames "2.2.6"
     date-fns "1.30.1"
-    i18n-js "3.5.0"
     lodash.throttle "4.1.1"
     ramda "0.26.1"
     react-flexbox-grid "2.1.2"
@@ -5203,11 +5208,6 @@ humanize-url@^1.0.0:
   dependencies:
     normalize-url "^1.0.0"
     strip-url-auth "^1.0.0"
-
-i18n-js@3.5.0:
-  version "3.5.0"
-  resolved "https://registry.yarnpkg.com/i18n-js/-/i18n-js-3.5.0.tgz#e2c41e1f90405d691d33ddce260f3dff9743215e"
-  integrity sha512-XosH7plfEisWo5XEYxkdlwONsDVQ3sYI3ZoKXcjXdyq+9eVNIJg2h2oPsgadfqcXxpPHMVMNBgmiyW3aEJXg1g==
 
 iconv-lite@0.4.24, iconv-lite@^0.4.24, iconv-lite@^0.4.4:
   version "0.4.24"
