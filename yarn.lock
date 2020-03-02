@@ -1240,32 +1240,37 @@
   resolved "https://registry.yarnpkg.com/@nodelib/fs.stat/-/fs.stat-1.1.3.tgz#2b5a3ab3f918cca48a8c754c08168e3f03eba61b"
   integrity sha512-shAmDyaQC4H92APFoIaVDHCx5bStIocgvbwQyxPRrbUY20V1EYTbSDchWbuwlMG3V17cprZhA6+78JfB+3DTPw==
 
-"@procore/core-css@8.1.0":
-  version "8.1.0"
-  resolved "https://registry.yarnpkg.com/@procore/core-css/-/core-css-8.1.0.tgz#2b6ff87f7fb1fb606af62fcfee2750c14ebde402"
-  integrity sha512-19XPE39WetxCNG1K3J8//roy6A6VhmSgaMawkaibpyQ+gqd+k3Mb2o5ChWHjz5igizb7xTUiEriy4FWEjvXJHA==
+"@procore/core-css@8.7.0":
+  version "8.7.0"
+  resolved "https://registry.yarnpkg.com/@procore/core-css/-/core-css-8.7.0.tgz#3b942221df72d3beec78e42f834f7b9372d0e31d"
+  integrity sha512-sfBfw7wGWFrEo0sG1wwK9U5txpyKqCLGfMzDadUDbsq8tvUPJ/1e/qdYBsN8tNuVwIEKkZy/IEY1sT54qzlo6w==
   dependencies:
     flexboxgrid2 "7.2.1"
 
-"@procore/core-icons@8.1.0":
-  version "8.1.0"
-  resolved "https://registry.yarnpkg.com/@procore/core-icons/-/core-icons-8.1.0.tgz#fcc72bc8692a3045f73e791acf3e67000c27ba61"
-  integrity sha512-7oRjIUkpdxMEuLNzdxpJsQvcQLxb4by3MPjLd3s8sCfTbeW/0oEEAjmfRreoaYUhaaBDHxVpxNboSVGYFiCsSw==
+"@procore/core-i18n-js@8.7.0":
+  version "8.7.0"
+  resolved "https://registry.yarnpkg.com/@procore/core-i18n-js/-/core-i18n-js-8.7.0.tgz#29dea6650835e8c55aeb619994569120d0437778"
+  integrity sha512-CVkorK5jdc/kSENMdjT8CXNnkO4/VM/NlQNShprWfqRCVyGdyvTN0rhtKDOLrbVfHVHyZ7YhY0pYmibRZaMa9Q==
 
-"@procore/core-react@8.1.0":
-  version "8.1.0"
-  resolved "https://registry.yarnpkg.com/@procore/core-react/-/core-react-8.1.0.tgz#170f76272a13ee762c926046708ac056f7f0ceb2"
-  integrity sha512-u+OBjBxfNj1kkJUhf1o29OZ9a2O2K1AkIIUVArunfqECes7uJK67SfJ4klzKdMH7zYudiIlPGoeOPKvjr/aFEQ==
+"@procore/core-icons@8.7.0":
+  version "8.7.0"
+  resolved "https://registry.yarnpkg.com/@procore/core-icons/-/core-icons-8.7.0.tgz#204f1986db8ebd3a6d959563334968f06444530d"
+  integrity sha512-LOdAC/on1OgqP1AijateT5clX8nYgpLHF3okzgsZP8LoKVEi/9IYneyxnwH68sUaI3p5qwRjFgifpbRbbxX1aQ==
+
+"@procore/core-react@8.7.0":
+  version "8.7.0"
+  resolved "https://registry.yarnpkg.com/@procore/core-react/-/core-react-8.7.0.tgz#881f38bf8e5b0909245f96dab0ac42bc6bcdacfe"
+  integrity sha512-vwEs8q0vVkWABMQj9O/GouJfV+3cP2jWpqTrjHJVKm5QxGkValWVyCMzuBBwFxbp9nEBfwoYwDf7iURSOObi4w==
   dependencies:
-    "@procore/core-css" "8.1.0"
-    "@procore/core-icons" "8.1.0"
+    "@procore/core-css" "8.7.0"
+    "@procore/core-i18n-js" "8.7.0"
+    "@procore/core-icons" "8.7.0"
     "@procore/event-journal" "0.4.2"
-    "@tinymce/tinymce-react" "3.3.2"
+    "@tinymce/tinymce-react" "3.5.0"
     classnames "2.2.6"
     date-fns "1.30.1"
-    i18n-js "3.5.0"
     lodash.throttle "4.1.1"
-    ramda "0.26.1"
+    ramda "0.27.0"
     react-flexbox-grid "2.1.2"
     ulid "2.3.0"
 
@@ -1379,10 +1384,10 @@
     "@svgr/plugin-svgo" "^4.3.1"
     loader-utils "^1.2.3"
 
-"@tinymce/tinymce-react@3.3.2":
-  version "3.3.2"
-  resolved "https://registry.yarnpkg.com/@tinymce/tinymce-react/-/tinymce-react-3.3.2.tgz#044e21c54f123d0d85933e7e994a6ed20702297b"
-  integrity sha512-5STyLVPtkvYwKrd5srXC++vrhoOhC8cx525PGVGOWIYK2Oqe5ey6o5s31Abg79XPJsCxiWU4daHBL5eaMBBhEg==
+"@tinymce/tinymce-react@3.5.0":
+  version "3.5.0"
+  resolved "https://registry.yarnpkg.com/@tinymce/tinymce-react/-/tinymce-react-3.5.0.tgz#5017be56aeab1077f09d3f74a386883e5524a33f"
+  integrity sha512-sZPerYmSWQcdk7F9KEvCC3/kPNZ9Bb+dk8rS0RoYyYql/gqgNpLpycC+CC/KhgT0wDaYuRoCcdV1DVZGam+oOg==
   dependencies:
     prop-types "^15.6.2"
 
@@ -5204,11 +5209,6 @@ humanize-url@^1.0.0:
     normalize-url "^1.0.0"
     strip-url-auth "^1.0.0"
 
-i18n-js@3.5.0:
-  version "3.5.0"
-  resolved "https://registry.yarnpkg.com/i18n-js/-/i18n-js-3.5.0.tgz#e2c41e1f90405d691d33ddce260f3dff9743215e"
-  integrity sha512-XosH7plfEisWo5XEYxkdlwONsDVQ3sYI3ZoKXcjXdyq+9eVNIJg2h2oPsgadfqcXxpPHMVMNBgmiyW3aEJXg1g==
-
 iconv-lite@0.4.24, iconv-lite@^0.4.24, iconv-lite@^0.4.4:
   version "0.4.24"
   resolved "https://registry.yarnpkg.com/iconv-lite/-/iconv-lite-0.4.24.tgz#2022b4b25fbddc21d2f524974a474aafe733908b"
@@ -8720,10 +8720,10 @@ raf@^3.4.1:
   dependencies:
     performance-now "^2.1.0"
 
-ramda@0.26.1:
-  version "0.26.1"
-  resolved "https://registry.yarnpkg.com/ramda/-/ramda-0.26.1.tgz#8d41351eb8111c55353617fc3bbffad8e4d35d06"
-  integrity sha512-hLWjpy7EnsDBb0p+Z3B7rPi3GDeRG5ZtiI33kJhTt+ORCd38AbAIjB/9zRIUoeTbE/AVX5ZkU7m6bznsvrf8eQ==
+ramda@0.27.0:
+  version "0.27.0"
+  resolved "https://registry.yarnpkg.com/ramda/-/ramda-0.27.0.tgz#915dc29865c0800bf3f69b8fd6c279898b59de43"
+  integrity sha512-pVzZdDpWwWqEVVLshWUHjNwuVP7SfcmPraYuqocJp1yo2U1R7P+5QAfDhdItkuoGqIBnBYrtPp7rEPqDn9HlZA==
 
 ramda@^0.25.0:
   version "0.25.0"
