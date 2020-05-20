@@ -1941,10 +1941,10 @@
   resolved "https://registry.yarnpkg.com/@nodelib/fs.stat/-/fs.stat-1.1.3.tgz#2b5a3ab3f918cca48a8c754c08168e3f03eba61b"
   integrity sha512-shAmDyaQC4H92APFoIaVDHCx5bStIocgvbwQyxPRrbUY20V1EYTbSDchWbuwlMG3V17cprZhA6+78JfB+3DTPw==
 
-"@procore/core-css@8.12.0":
-  version "8.12.0"
-  resolved "https://registry.yarnpkg.com/@procore/core-css/-/core-css-8.12.0.tgz#07e4ec3ae5f2ab704bbad872a573c4ba2fbbb4c3"
-  integrity sha512-HUIqalMpuF+HreJHCTzc17rLKSMU6O1beI0LYHzgN1StlhvvHIxkmYryWJaGRHCnAyGemkoAJ1m3FBuyDqSIFQ==
+"@procore/core-css@8.13.0":
+  version "8.13.0"
+  resolved "https://registry.yarnpkg.com/@procore/core-css/-/core-css-8.13.0.tgz#35732f2977809dc4f5ff6ddfdae3359e6261dcaf"
+  integrity sha512-FSsy7IEadbzhByw27FPRwpNH6hGiRZlr2WTIuIHWDsdd1SsHOdyOEyowVVM4JNKr428y7/0tFiPk+NxNmHpQXw==
   dependencies:
     flexboxgrid2 "7.2.1"
 
@@ -1958,12 +1958,12 @@
   resolved "https://registry.yarnpkg.com/@procore/core-icons/-/core-icons-8.12.0.tgz#b4d3e1b20f6f3875edc6273ecb5291c6d62feb36"
   integrity sha512-BQyOOyJb8rzpj+JHmIZZtsfUg4YZgoqAeFELMnMIvxCRTpA59gyhLwODLZHneERTQ0FSJ/MDYXzSojrAYso4YA==
 
-"@procore/core-react@8.12.0":
-  version "8.12.0"
-  resolved "https://registry.yarnpkg.com/@procore/core-react/-/core-react-8.12.0.tgz#761e19de6ad7b180da3fc40e5720a79f70bc6cf6"
-  integrity sha512-o5j33hx0u8EcMokf5zmyettDhKUQgs477/iswc4ZCF5w+nzsIo2cJp3SU6zI4/3CB3gUDT8resMI3mHapzzHdQ==
+"@procore/core-react@8.13.0":
+  version "8.13.0"
+  resolved "https://registry.yarnpkg.com/@procore/core-react/-/core-react-8.13.0.tgz#05e2d898e3067de2f5461b0217ac14282878cdd2"
+  integrity sha512-meHNIpz7W3lL91+Z2gLJFyqQbvJ8RrXcre96FLILjUcGUbYqyQFbBpoOBRIeK0gZH6Yn0c7Sa3wivMLE8GBRXA==
   dependencies:
-    "@procore/core-css" "8.12.0"
+    "@procore/core-css" "8.13.0"
     "@procore/core-i18n-js" "8.12.0"
     "@procore/core-icons" "8.12.0"
     "@procore/event-journal" "0.4.2"
