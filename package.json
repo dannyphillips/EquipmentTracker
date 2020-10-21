@@ -4,8 +4,8 @@
   "private": true,
   "dependencies": {
     "@procore/core-react": "8.25.0",
-    "react": "16.14.0",
-    "react-dom": "16.14.0",
+    "react": "17.0.0",
+    "react-dom": "17.0.0",
     "react-scripts": "3.4.3",
     "styled-components": "4.4.1",
     "whatwg-fetch": "^3.4.1"
