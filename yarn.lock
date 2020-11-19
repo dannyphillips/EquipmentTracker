@@ -1468,10 +1468,10 @@
     schema-utils "^2.6.5"
     source-map "^0.7.3"
 
-"@procore/core-css@9.2.0":
-  version "9.2.0"
-  resolved "https://registry.yarnpkg.com/@procore/core-css/-/core-css-9.2.0.tgz#56e251c68265f878ebd4aade3fa2e8c632387fa7"
-  integrity sha512-EB3TeSDMB9Tmvn4g8Hmylc4a7uuGzDVCvAPb8yvACFo6hE1oU9IucBJUzwiVWk9ytJYPh1oMdTPhEz0RYERo/w==
+"@procore/core-css@9.2.2":
+  version "9.2.2"
+  resolved "https://registry.yarnpkg.com/@procore/core-css/-/core-css-9.2.2.tgz#0dabbf071eb7760c39002236d5f55b4b41e93b87"
+  integrity sha512-9iHf3qi3NnbBSXMePm8qQ3ywAVd6dEpcEUIhBWT1HakjFVy1JsS0htQdQQdWYZPqxfEz0RBLnBfMSHya/aGDJQ==
   dependencies:
     flexboxgrid2 "7.2.1"
 
@@ -1485,12 +1485,12 @@
   resolved "https://registry.yarnpkg.com/@procore/core-icons/-/core-icons-9.0.0.tgz#62445017b49e521e433f5be39ec35d8aa724f96e"
   integrity sha512-hxZuIwzDWMEz5hlcKIN41TBa6B4WqRZZBCeTxCugDnNcpDpStLneCv4LtouGD0Qpvqj4Uf4Iwcoe5d7u9jUzXw==
 
-"@procore/core-react@9.2.0":
-  version "9.2.0"
-  resolved "https://registry.yarnpkg.com/@procore/core-react/-/core-react-9.2.0.tgz#7c628bf55360bcf37a3feac2cc2a7edddb7cb5fd"
-  integrity sha512-iP4dBWMp0batfDxAyTK0mka1ufRZjmp8CmQ1Zhm+bG2rF1kyvtXM54WArMh2ZKdA1KsYueR6nmKGnoybY3VF8w==
+"@procore/core-react@9.2.2":
+  version "9.2.2"
+  resolved "https://registry.yarnpkg.com/@procore/core-react/-/core-react-9.2.2.tgz#2af7a5389011cef9dafa9cfaa4c08e6e1093934b"
+  integrity sha512-KDLJwGDjvNS9yspCU75BuWJbihPx0n6nyFRMmKN/n3pHD0UvCOwe6xKlGRC3qI4JIPWaJgnSSt786sIwKOQ7hw==
   dependencies:
-    "@procore/core-css" "9.2.0"
+    "@procore/core-css" "9.2.2"
     "@procore/core-i18n-js" "9.0.0"
     "@procore/core-icons" "9.0.0"
     "@procore/event-journal" "0.4.2"
