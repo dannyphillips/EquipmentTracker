@@ -1468,34 +1468,34 @@
     schema-utils "^2.6.5"
     source-map "^0.7.3"
 
-"@procore/core-css@9.6.0":
-  version "9.6.0"
-  resolved "https://registry.yarnpkg.com/@procore/core-css/-/core-css-9.6.0.tgz#88567e2e8853343bb84e300c109fcf4764903c8b"
-  integrity sha512-BOQe9SgoxI4vpdUaYvaGn7/Z3GiSy92itqKF2+6bozi341UWwt/4Aq5flhg8Xf5CqScgxis8QSrDl8COU1fWfA==
+"@procore/core-css@9.7.0":
+  version "9.7.0"
+  resolved "https://registry.yarnpkg.com/@procore/core-css/-/core-css-9.7.0.tgz#a24a51b8de1f005f25342453dc6d0eb814b05308"
+  integrity sha512-d6cDvSsZAuT3SRbbsU9RCuUQm9N7rIqPvY3Bh/SCKWGGumnTNYGV9dlgcIupHnXXXYai3petYFx4KIzjhzMflA==
   dependencies:
     flexboxgrid2 "7.2.1"
 
-"@procore/core-i18n-js@9.5.0":
-  version "9.5.0"
-  resolved "https://registry.yarnpkg.com/@procore/core-i18n-js/-/core-i18n-js-9.5.0.tgz#733be7bf2cc30d975fbab8a0fa66ecca0480ad41"
-  integrity sha512-n+28ZXF+DUA/Exm01AMhY21YPniwkFGh7EuKXXEBMjtC63QH569IyZDr8lqyVE1HtwRyBaQhSe2HtoHLeW4fSA==
+"@procore/core-i18n-js@9.7.0":
+  version "9.7.0"
+  resolved "https://registry.yarnpkg.com/@procore/core-i18n-js/-/core-i18n-js-9.7.0.tgz#647a80de4f68354e95c20b3b848c068af32fc6ef"
+  integrity sha512-ZnVP6VOe6sNEexcRgKBwmUKSRPfsFxrpERhvRUeob2Yisra5S7jPBbegNQBTIbHn9WeXjVK8UKUtIdlfWUntag==
 
-"@procore/core-icons@9.5.0":
-  version "9.5.0"
-  resolved "https://registry.yarnpkg.com/@procore/core-icons/-/core-icons-9.5.0.tgz#eba3047932f2dedcf89d61a3bdcaad2158707046"
-  integrity sha512-Q0Mg/+Jb1Nfpajo2F8TGPkAmb1zj5lWfVpE8NP23lkpl9JIhaCDIqzoduOj7PFcP7sZyW0oy/VaEVBiZnCzXXg==
+"@procore/core-icons@9.7.0":
+  version "9.7.0"
+  resolved "https://registry.yarnpkg.com/@procore/core-icons/-/core-icons-9.7.0.tgz#59af410ce98b7d9b6d77083ffddc805e21edfc73"
+  integrity sha512-0T/VuvewrGpLhJHEqd8Rb/ozAP15+vqbtdb0k/of757U1Qq88E4voFdiSlN/AodgSCZ39HeH5uOUGcP4g9KdQA==
 
-"@procore/core-react@9.6.0":
-  version "9.6.0"
-  resolved "https://registry.yarnpkg.com/@procore/core-react/-/core-react-9.6.0.tgz#89792b690e535413b1691d6ddd2d1592de87b73d"
-  integrity sha512-yP7ympm98Z7/WgIPK3gt4QIAjZF07SDz9Q35xurcx8l5s8218zU60H2CV1ND6z+/Er9KTfvZbz6zeClaIU6Zuw==
+"@procore/core-react@9.7.0":
+  version "9.7.0"
+  resolved "https://registry.yarnpkg.com/@procore/core-react/-/core-react-9.7.0.tgz#98e7c28310af8ba663a33377076fd5809ef843f0"
+  integrity sha512-Qw73ioVOjHia1PPSkObq9MFPEr0krRUU2BmOF43Z4b43NCZV1nxrKCKRuHGBOyU6YCr8yt7Q1WRQh8UH7xLR1w==
   dependencies:
-    "@procore/core-css" "9.6.0"
-    "@procore/core-i18n-js" "9.5.0"
-    "@procore/core-icons" "9.5.0"
+    "@procore/core-css" "9.7.0"
+    "@procore/core-i18n-js" "9.7.0"
+    "@procore/core-icons" "9.7.0"
     "@testing-library/jest-dom" "5.11.6"
     "@tinymce/tinymce-react" "3.8.1"
-    axios "0.21.0"
+    axios "0.21.1"
     classnames "2.2.6"
     date-fns "2.16.1"
     intersection-observer "0.11.0"
@@ -2626,10 +2626,10 @@ axe-core@^3.5.4:
   resolved "https://registry.yarnpkg.com/axe-core/-/axe-core-3.5.5.tgz#84315073b53fa3c0c51676c588d59da09a192227"
   integrity sha512-5P0QZ6J5xGikH780pghEdbEKijCTrruK9KxtPZCFWUpef0f6GipO+xEZ5GKCb020mmqgbiNO6TcA55CriL784Q==
 
-axios@0.21.0:
-  version "0.21.0"
-  resolved "https://registry.yarnpkg.com/axios/-/axios-0.21.0.tgz#26df088803a2350dff2c27f96fef99fe49442aca"
-  integrity sha512-fmkJBknJKoZwem3/IKSSLpkdNXZeBu5Q7GA/aRsr2btgrptmSCxi2oFjZHqGdK9DoTil9PIHlPIZw2EcRJXRvw==
+axios@0.21.1:
+  version "0.21.1"
+  resolved "https://registry.yarnpkg.com/axios/-/axios-0.21.1.tgz#22563481962f4d6bde9a76d516ef0e5d3c09b2b8"
+  integrity sha512-dKQiRHxGD9PPRIUNIWvZhPTPpl1rf/OxTYKsqKUDjBwYylTvV7SjSHJb9ratfyzM6wCdLCOYLzs73qpg5c4iGA==
   dependencies:
     follow-redirects "^1.10.0"
 
