@@ -2210,37 +2210,37 @@
     schema-utils "^2.6.5"
     source-map "^0.7.3"
 
-"@procore/core-css@9.8.0":
-  version "9.8.0"
-  resolved "https://registry.yarnpkg.com/@procore/core-css/-/core-css-9.8.0.tgz#5a24f661b0962aedad6e33eab37c3a73ccb98f85"
-  integrity sha512-7Hb6qfgNvc4iVlQ8WALOEtxLrRXx6oJ64nVuuMhquPuL1HuiVzaQE3exlNYHeTc4l3aoNxTr1ukZc+jBds3PzA==
+"@procore/core-css@10.0.1":
+  version "10.0.1"
+  resolved "https://registry.yarnpkg.com/@procore/core-css/-/core-css-10.0.1.tgz#4d8be5dabcbece7a1b72797199ccf2ecb617be89"
+  integrity sha512-wj9A9XVYPNmLtftkk3GMnaOZM1qtetQinVMbV6fsdWUB4OjvFVbrZwy4EjENOnsw0s/DelV9clHXvrpZtADpCg==
   dependencies:
     flexboxgrid2 "7.2.1"
 
-"@procore/core-i18n-js@9.8.0":
-  version "9.8.0"
-  resolved "https://registry.yarnpkg.com/@procore/core-i18n-js/-/core-i18n-js-9.8.0.tgz#72f26d0d26b0f992e651f7de4680a10eb8dfa89a"
-  integrity sha512-W30c0oVTA+MtsyRt2as8QDjACXNR1aZg9lhEZhBEfdaD9RH7koa223RQkQUDTpInZaNPSQ0xnD+LhWX46pHlxw==
+"@procore/core-i18n-js@10.0.0":
+  version "10.0.0"
+  resolved "https://registry.yarnpkg.com/@procore/core-i18n-js/-/core-i18n-js-10.0.0.tgz#fd86d8b98d7ac33f061c2ca74d20214a45c34e2d"
+  integrity sha512-w+xN8l3BeuvIyWz+kMfsCb6jn+/yg+eTqxZyYF4K+EsLT3h6EY37t3fcOoP4FHAwII/Npd83rc8p8iI342sKcw==
 
-"@procore/core-icons@9.7.0":
-  version "9.7.0"
-  resolved "https://registry.yarnpkg.com/@procore/core-icons/-/core-icons-9.7.0.tgz#59af410ce98b7d9b6d77083ffddc805e21edfc73"
-  integrity sha512-0T/VuvewrGpLhJHEqd8Rb/ozAP15+vqbtdb0k/of757U1Qq88E4voFdiSlN/AodgSCZ39HeH5uOUGcP4g9KdQA==
+"@procore/core-icons@10.0.1":
+  version "10.0.1"
+  resolved "https://registry.yarnpkg.com/@procore/core-icons/-/core-icons-10.0.1.tgz#effadcf13af389e097e7b88a22ef7be543bc46fd"
+  integrity sha512-4aXZhd03Yv7iAOkFMipExzfAks1oqELU3CjGlAgn4/RgTScAvZ3GatUKDgD1xodfh3ynWZTNzMfEdHnRdJvesw==
 
-"@procore/core-react@9.9.0":
-  version "9.9.0"
-  resolved "https://registry.yarnpkg.com/@procore/core-react/-/core-react-9.9.0.tgz#492f286a349c150fc265f16280e1cc3612b832d0"
-  integrity sha512-juVQYGJfg0b7BoVHowyMc0z1ljEGzhOfhvIlEqFmn2dwSDs4nBKx6g26/i4OBt59d5kChDR5pmN/blv78ltXhg==
+"@procore/core-react@10.0.1":
+  version "10.0.1"
+  resolved "https://registry.yarnpkg.com/@procore/core-react/-/core-react-10.0.1.tgz#560d0158fc26ed8b35a61286fe4aef04da25477a"
+  integrity sha512-FpC+fIVUvv/hQxrdK1RZPgPHGfy9VddRHCCfh93bsuGKhIxRi81+OvAcn9JvQ/DgtWmRGm8rOW3yJJ54MrfvOQ==
   dependencies:
-    "@procore/core-css" "9.8.0"
-    "@procore/core-i18n-js" "9.8.0"
-    "@procore/core-icons" "9.7.0"
-    "@testing-library/jest-dom" "5.11.6"
+    "@procore/core-css" "10.0.1"
+    "@procore/core-i18n-js" "10.0.0"
+    "@procore/core-icons" "10.0.1"
+    "@testing-library/jest-dom" "5.11.9"
     "@tinymce/tinymce-react" "3.9.0"
     axios "0.21.1"
     classnames "2.2.6"
     date-fns "2.16.1"
-    intersection-observer "0.11.0"
+    intersection-observer "0.12.0"
     lodash.throttle "4.1.1"
     ramda "0.27.1"
     react-dropzone "11.2.4"
@@ -2403,10 +2403,10 @@
     "@svgr/plugin-svgo" "^5.5.0"
     loader-utils "^2.0.0"
 
-"@testing-library/jest-dom@5.11.6":
-  version "5.11.6"
-  resolved "https://registry.yarnpkg.com/@testing-library/jest-dom/-/jest-dom-5.11.6.tgz#782940e82e5cd17bc0a36f15156ba16f3570ac81"
-  integrity sha512-cVZyUNRWwUKI0++yepYpYX7uhrP398I+tGz4zOlLVlUYnZS+Svuxv4fwLeCIy7TnBYKXUaOlQr3vopxL8ZfEnA==
+"@testing-library/jest-dom@5.11.9":
+  version "5.11.9"
+  resolved "https://registry.yarnpkg.com/@testing-library/jest-dom/-/jest-dom-5.11.9.tgz#e6b3cd687021f89f261bd53cbe367041fbd3e975"
+  integrity sha512-Mn2gnA9d1wStlAIT2NU8J15LNob0YFBVjs2aEQ3j8rsfRQo+lAs7/ui1i2TGaJjapLmuNPLTsrm+nPjmZDwpcQ==
   dependencies:
     "@babel/runtime" "^7.9.2"
     "@types/testing-library__jest-dom" "^5.9.1"
@@ -6991,10 +6991,10 @@ internal-slot@^1.0.2:
     has "^1.0.3"
     side-channel "^1.0.2"
 
-intersection-observer@0.11.0:
-  version "0.11.0"
-  resolved "https://registry.yarnpkg.com/intersection-observer/-/intersection-observer-0.11.0.tgz#f4ea067070326f68393ee161cc0a2ca4c0040c6f"
-  integrity sha512-KZArj2QVnmdud9zTpKf279m2bbGfG+4/kn16UU0NL3pTVl52ZHiJ9IRNSsnn6jaHrL9EGLFM5eWjTx2fz/+zoQ==
+intersection-observer@0.12.0:
+  version "0.12.0"
+  resolved "https://registry.yarnpkg.com/intersection-observer/-/intersection-observer-0.12.0.tgz#6c84628f67ce8698e5f9ccf857d97718745837aa"
+  integrity sha512-2Vkz8z46Dv401zTWudDGwO7KiGHNDkMv417T5ItcNYfmvHR/1qCTVBO9vwH8zZmQ0WkA/1ARwpysR9bsnop4NQ==
 
 ip-regex@^2.1.0:
   version "2.1.0"
