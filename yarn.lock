@@ -2227,10 +2227,10 @@
   resolved "https://registry.yarnpkg.com/@procore/core-icons/-/core-icons-10.0.1.tgz#effadcf13af389e097e7b88a22ef7be543bc46fd"
   integrity sha512-4aXZhd03Yv7iAOkFMipExzfAks1oqELU3CjGlAgn4/RgTScAvZ3GatUKDgD1xodfh3ynWZTNzMfEdHnRdJvesw==
 
-"@procore/core-react@10.1.0":
-  version "10.1.0"
-  resolved "https://registry.yarnpkg.com/@procore/core-react/-/core-react-10.1.0.tgz#780fc355cad0a1ab5c707b87f6fa61d99f2660ba"
-  integrity sha512-XmJxuRGuki1htXK2053tzK4VioFB+P+WxGbxoCgG/1eOYbsg193evTm+xT/il1G4r0lzmTKIjM0P5n1ZZog3lw==
+"@procore/core-react@10.2.0":
+  version "10.2.0"
+  resolved "https://registry.yarnpkg.com/@procore/core-react/-/core-react-10.2.0.tgz#e785e2533e7111b5502de4fd6fdf2d976b4e3e30"
+  integrity sha512-TB9wCLBXDuvnp8ghuDfo/Riwtx3woAcASFzhBlUG7YS31trNvWs98cyRgSzSnIDH20ivqFIv/auxq3EE+IRkmA==
   dependencies:
     "@procore/core-css" "10.0.1"
     "@procore/core-i18n-js" "10.0.0"
