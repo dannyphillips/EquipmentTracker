@@ -2210,43 +2210,43 @@
     schema-utils "^2.6.5"
     source-map "^0.7.3"
 
-"@procore/core-css@10.0.1":
-  version "10.0.1"
-  resolved "https://registry.yarnpkg.com/@procore/core-css/-/core-css-10.0.1.tgz#4d8be5dabcbece7a1b72797199ccf2ecb617be89"
-  integrity sha512-wj9A9XVYPNmLtftkk3GMnaOZM1qtetQinVMbV6fsdWUB4OjvFVbrZwy4EjENOnsw0s/DelV9clHXvrpZtADpCg==
+"@procore/core-css@10.3.0":
+  version "10.3.0"
+  resolved "https://registry.yarnpkg.com/@procore/core-css/-/core-css-10.3.0.tgz#3f670bf8cfac90ab975e044d9fb18bcdec631704"
+  integrity sha512-7LSZRYZCfK6rGZJWvvvHqEx2XGFO0XmhHe86hHmPfST5k3U4olKeyY6S8U2EkGF5QT9E7VReixIsAI4qr8rO9A==
   dependencies:
     flexboxgrid2 "7.2.1"
 
-"@procore/core-i18n-js@10.0.0":
-  version "10.0.0"
-  resolved "https://registry.yarnpkg.com/@procore/core-i18n-js/-/core-i18n-js-10.0.0.tgz#fd86d8b98d7ac33f061c2ca74d20214a45c34e2d"
-  integrity sha512-w+xN8l3BeuvIyWz+kMfsCb6jn+/yg+eTqxZyYF4K+EsLT3h6EY37t3fcOoP4FHAwII/Npd83rc8p8iI342sKcw==
+"@procore/core-i18n-js@10.3.0":
+  version "10.3.0"
+  resolved "https://registry.yarnpkg.com/@procore/core-i18n-js/-/core-i18n-js-10.3.0.tgz#13e382b2854c1ec48b41288c6d1bc532004ab21d"
+  integrity sha512-TKHH6TntGsGRTkEtnKPxyhJMaeml7wplI5D1hFJ2PU+xnMAaQKBCiUBI93EmeAG6IfwflGFGS2mWC9plvk2V4w==
 
-"@procore/core-icons@10.0.1":
-  version "10.0.1"
-  resolved "https://registry.yarnpkg.com/@procore/core-icons/-/core-icons-10.0.1.tgz#effadcf13af389e097e7b88a22ef7be543bc46fd"
-  integrity sha512-4aXZhd03Yv7iAOkFMipExzfAks1oqELU3CjGlAgn4/RgTScAvZ3GatUKDgD1xodfh3ynWZTNzMfEdHnRdJvesw==
+"@procore/core-icons@10.3.0":
+  version "10.3.0"
+  resolved "https://registry.yarnpkg.com/@procore/core-icons/-/core-icons-10.3.0.tgz#89529e5dd64902c662ff9191e561551568258826"
+  integrity sha512-cSp/cWxgSxxKvqwjA5V9czBvYiHKQrkSnY2jwr7f/XvXjVCuLwPG400E71FxSQ5LAVGHcCa5PNkh/0XGE+5RiQ==
 
-"@procore/core-react@10.2.0":
-  version "10.2.0"
-  resolved "https://registry.yarnpkg.com/@procore/core-react/-/core-react-10.2.0.tgz#e785e2533e7111b5502de4fd6fdf2d976b4e3e30"
-  integrity sha512-TB9wCLBXDuvnp8ghuDfo/Riwtx3woAcASFzhBlUG7YS31trNvWs98cyRgSzSnIDH20ivqFIv/auxq3EE+IRkmA==
+"@procore/core-react@10.3.0":
+  version "10.3.0"
+  resolved "https://registry.yarnpkg.com/@procore/core-react/-/core-react-10.3.0.tgz#2705c6e296330c572db9e6cfe00b333a34c653e6"
+  integrity sha512-M+Id5CyN/ORCIVUVOPJPeVc9GS0ZEhRdWTGOvLhz7NeKU7qRoYCBB370FQQPV/1Meq+R0nvUUc9rR5Ck+L4eHw==
   dependencies:
-    "@procore/core-css" "10.0.1"
-    "@procore/core-i18n-js" "10.0.0"
-    "@procore/core-icons" "10.0.1"
+    "@procore/core-css" "10.3.0"
+    "@procore/core-i18n-js" "10.3.0"
+    "@procore/core-icons" "10.3.0"
     "@testing-library/jest-dom" "5.11.9"
-    "@tinymce/tinymce-react" "3.9.0"
+    "@tinymce/tinymce-react" "3.10.2"
     axios "0.21.1"
     classnames "2.2.6"
-    date-fns "2.16.1"
+    date-fns "2.18.0"
     intersection-observer "0.12.0"
     lodash.throttle "4.1.1"
     ramda "0.27.1"
     react-dropzone "11.2.4"
     react-flexbox-grid "2.1.2"
     react-window "1.8.6"
-    react-window-infinite-loader "1.0.5"
+    react-window-infinite-loader "1.0.7"
     resize-observer-polyfill "1.5.1"
     ulid "2.3.0"
 
@@ -2417,13 +2417,13 @@
     lodash "^4.17.15"
     redent "^3.0.0"
 
-"@tinymce/tinymce-react@3.9.0":
-  version "3.9.0"
-  resolved "https://registry.yarnpkg.com/@tinymce/tinymce-react/-/tinymce-react-3.9.0.tgz#7c8f2fcd5b7487d9c2882936a7ba2662300810b6"
-  integrity sha512-1DgMahuESQuGMvSpCabw2WrgfRQmPTuCOpThMB/aFJYSpGoLYe7kV4QJwMEWB1HXBfTV9ahG6yMNcP9PTfYk5A==
+"@tinymce/tinymce-react@3.10.2":
+  version "3.10.2"
+  resolved "https://registry.yarnpkg.com/@tinymce/tinymce-react/-/tinymce-react-3.10.2.tgz#6e16be6ece4bbe8c896311d1e4d7d59d66e812a6"
+  integrity sha512-PcCGYuepfTidkNwSaTyEg5nVRrqQa9KJDBiCrfb7xRCkoNXeYKY4lFhnT84AcBe9BEcJ4HnCXoqCTnjOaF/R2w==
   dependencies:
     prop-types "^15.6.2"
-    tinymce "^5.6.2"
+    tinymce "^5.7.0"
 
 "@types/anymatch@*":
   version "1.3.1"
@@ -4873,10 +4873,10 @@ data-urls@^2.0.0:
     whatwg-mimetype "^2.3.0"
     whatwg-url "^8.0.0"
 
-date-fns@2.16.1:
-  version "2.16.1"
-  resolved "https://registry.yarnpkg.com/date-fns/-/date-fns-2.16.1.tgz#05775792c3f3331da812af253e1a935851d3834b"
-  integrity sha512-sAJVKx/FqrLYHAQeN7VpJrPhagZc9R4ImZIWYRFZaaohR3KzmuK88touwsSwSVT8Qcbd4zoDsnGfX4GFB4imyQ==
+date-fns@2.18.0:
+  version "2.18.0"
+  resolved "https://registry.yarnpkg.com/date-fns/-/date-fns-2.18.0.tgz#08e50aee300ad0d2c5e054e3f0d10d8f9cdfe09e"
+  integrity sha512-NYyAg4wRmGVU4miKq5ivRACOODdZRY3q5WLmOJSq8djyzftYphU7dTHLcEtLqEvfqMKQ0jVv91P4BAwIjsXIcw==
 
 date-now@^0.1.4:
   version "0.1.4"
@@ -10601,10 +10601,10 @@ react-scripts@4.0.3:
   optionalDependencies:
     fsevents "^2.1.3"
 
-react-window-infinite-loader@1.0.5:
-  version "1.0.5"
-  resolved "https://registry.yarnpkg.com/react-window-infinite-loader/-/react-window-infinite-loader-1.0.5.tgz#6fe094d538a88978c2c9b623052bc50cb28c2abc"
-  integrity sha512-IcPIq8lADK3zsAcqoLqQGyduicqR6jWkiK2VUX5sKSI9X/rou6OWlOEexnGyujdNTG7hSG8OVBFEhLSDs4qrxg==
+react-window-infinite-loader@1.0.7:
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/react-window-infinite-loader/-/react-window-infinite-loader-1.0.7.tgz#958ef1a689d20dce122ef377583acd987760aee8"
+  integrity sha512-wg3LWkUpG21lhv+cZvNy+p0+vtclZw+9nP2vO6T9PKT50EN1cUq37Dq6FzcM38h/c2domE0gsUhb6jHXtGogAA==
 
 react-window@1.8.6:
   version "1.8.6"
@@ -12196,10 +12196,10 @@ timsort@^0.3.0:
   resolved "https://registry.yarnpkg.com/timsort/-/timsort-0.3.0.tgz#405411a8e7e6339fe64db9a234de11dc31e02bd4"
   integrity sha1-QFQRqOfmM5/mTbmiNN4R3DHgK9Q=
 
-tinymce@^5.6.2:
-  version "5.6.2"
-  resolved "https://registry.yarnpkg.com/tinymce/-/tinymce-5.6.2.tgz#4c20c22e328c5d0baab204928dbc2b0ecbed18b4"
-  integrity sha512-z7zvM5seOPiW86/vqf08kStwW5Zs5U9oQfuqh2rTj4jEcT2QzxT0v72i2zw3W6rbTLldkAej6edFZphj5ee5zg==
+tinymce@^5.7.0:
+  version "5.7.0"
+  resolved "https://registry.yarnpkg.com/tinymce/-/tinymce-5.7.0.tgz#bc565877e4041db83848a330dfa7916993110cba"
+  integrity sha512-WikgMpJbqYPaucV3lfstCj+Y4NquZlK61gyuJ2eqDUBlSU+4fFh6rpwnelVTxuvtEyJsAVOl8HZmbzBfDJiLsQ==
 
 tmpl@1.0.x:
   version "1.0.4"
