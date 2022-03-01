@@ -2163,41 +2163,41 @@
     schema-utils "^2.6.5"
     source-map "^0.7.3"
 
-"@procore/core-css@10.20.0":
-  version "10.20.0"
-  resolved "https://registry.yarnpkg.com/@procore/core-css/-/core-css-10.20.0.tgz#5119f77e5df62415caee2973c4b67d64f018b945"
-  integrity sha512-T6+VtoBSAflHSf4ewyZYEpDZFR67hFKg4yAAqJsJyPSrkow6Eqo8gOwhFtryz5FFg+VwBocEvXKOwsn7JxEEFw==
+"@procore/core-css@10.23.0":
+  version "10.23.0"
+  resolved "https://registry.yarnpkg.com/@procore/core-css/-/core-css-10.23.0.tgz#9b8f1081f808130c65915c234bab05478021adc3"
+  integrity sha512-5bDnBTGltO2LeR5jCrAJ/wxXs2BvGGXi/FWxRwISfsrG94h4yoFNoqpPF4B/2fFq+2JW2+3QE8Ud7JyEJOtTDA==
   dependencies:
     flexboxgrid2 "7.2.1"
 
-"@procore/core-i18n-js@10.20.0":
-  version "10.20.0"
-  resolved "https://registry.yarnpkg.com/@procore/core-i18n-js/-/core-i18n-js-10.20.0.tgz#3f13e44a47ed95d51fa55a4d96920688508078ab"
-  integrity sha512-yGg/LV1RuiGJ4Caktv4EoAQ3Yj2Xlp2MeRKidzA/sLjwBp1u7bD4IeBHNTHGq7N8IrFYnKAhcDCEe/YHM+wyDg==
+"@procore/core-i18n-js@10.25.0":
+  version "10.25.0"
+  resolved "https://registry.yarnpkg.com/@procore/core-i18n-js/-/core-i18n-js-10.25.0.tgz#ba65661fb577b0167009a5386f492216f216c56f"
+  integrity sha512-K8HD377Wu9yB3Y8T8tduqPefLUPWBI/PV0h/dMEqCSm89pF2R+4nfsCNHFqUkvnx5QQHZ0nud85gpQ/tBAzeKw==
 
-"@procore/core-icons@10.20.0":
-  version "10.20.0"
-  resolved "https://registry.yarnpkg.com/@procore/core-icons/-/core-icons-10.20.0.tgz#9b523131eba6d9423033b5f708ffa4edd4b19121"
-  integrity sha512-gVBKfDNhIhGQVsU0jgbJHZxrKa9vxhGS/bHFXdmi9OKsNMrqiwm+2auuI+48a28j+zNtMkPdrBCh3nDhpaDIeg==
+"@procore/core-icons@10.25.0":
+  version "10.25.0"
+  resolved "https://registry.yarnpkg.com/@procore/core-icons/-/core-icons-10.25.0.tgz#2baa45c4a63967326b2c46e79911bdb34d5e329d"
+  integrity sha512-BwsApqgP+6m6qjPoTW1snxZDIjQOq9jmKVwH5v/mbT+S/t5oH3yomktIkZZhDboscBVq7OrfeS4owFnvL19/nA==
 
-"@procore/core-react@10.20.0":
-  version "10.20.0"
-  resolved "https://registry.yarnpkg.com/@procore/core-react/-/core-react-10.20.0.tgz#202cd04192029620570637af25245b4ceaf46e95"
-  integrity sha512-mt5bXxnA8tC3i0o3XKCH2FboX8rj+X9fgTJ6ODfwXS4g1O5iFev0h4z3LkM/yrz1DP7BkWtBgQllNPSvcQHMEQ==
+"@procore/core-react@10.25.0":
+  version "10.25.0"
+  resolved "https://registry.yarnpkg.com/@procore/core-react/-/core-react-10.25.0.tgz#ffae174e84f1ea5131400f7a076cdf8b8697abe5"
+  integrity sha512-NGcIYAUguRo+y85cHBa2e6g6OufZcwsth4SW0f3zl+0ZlLISCRPsPzbCcgYwrcJU7TzcaCUzTZT4pWJ+IsP2oA==
   dependencies:
-    "@procore/core-css" "10.20.0"
-    "@procore/core-i18n-js" "10.20.0"
-    "@procore/core-icons" "10.20.0"
+    "@procore/core-css" "10.23.0"
+    "@procore/core-i18n-js" "10.25.0"
+    "@procore/core-icons" "10.25.0"
     "@tinymce/tinymce-react" "3.13.0"
     axios "0.24.0"
     classnames "2.3.1"
-    date-fns "2.27.0"
-    date-fns-tz "1.1.6"
+    date-fns "2.28.0"
+    date-fns-tz "1.2.2"
     intersection-observer "0.12.0"
     lodash.throttle "4.1.1"
     ramda "0.27.1"
     react-beautiful-dnd "13.1.0"
-    react-dropzone "11.4.2"
+    react-dropzone "11.5.1"
     react-styled-flexboxgrid "3.2.1"
     react-window "1.8.6"
     react-window-infinite-loader "1.0.7"
@@ -4777,15 +4777,15 @@ data-urls@^2.0.0:
     whatwg-mimetype "^2.3.0"
     whatwg-url "^8.0.0"
 
-date-fns-tz@1.1.6:
-  version "1.1.6"
-  resolved "https://registry.yarnpkg.com/date-fns-tz/-/date-fns-tz-1.1.6.tgz#93cbf354e2aeb2cd312ffa32e462c1943cf20a8e"
-  integrity sha512-nyy+URfFI3KUY7udEJozcoftju+KduaqkVfwyTIE0traBiVye09QnyWKLZK7drRr5h9B7sPJITmQnS3U6YOdQg==
+date-fns-tz@1.2.2:
+  version "1.2.2"
+  resolved "https://registry.yarnpkg.com/date-fns-tz/-/date-fns-tz-1.2.2.tgz#89432b54ce3fa7d050a2039e997e5b6a96df35dd"
+  integrity sha512-vWtn44eEqnLbkACb7T5G5gPgKR4nY8NkNMOCyoY49NsRGHrcDmY2aysCyzDeA+u+vcDBn/w6nQqEDyouRs4m8w==
 
-date-fns@2.27.0:
-  version "2.27.0"
-  resolved "https://registry.yarnpkg.com/date-fns/-/date-fns-2.27.0.tgz#e1ff3c3ddbbab8a2eaadbb6106be2929a5a2d92b"
-  integrity sha512-sj+J0Mo2p2X1e306MHq282WS4/A8Pz/95GIFcsPNMPMZVI3EUrAdSv90al1k+p74WGLCruMXk23bfEDZa71X9Q==
+date-fns@2.28.0:
+  version "2.28.0"
+  resolved "https://registry.yarnpkg.com/date-fns/-/date-fns-2.28.0.tgz#9570d656f5fc13143e50c975a3b6bbeb46cd08b2"
+  integrity sha512-8d35hViGYx/QH0icHYCeLmsLmMUheMmTyV9Fcm6gvNwdw31yXXH+O85sOBJ+OLnLQMKZowvpKb6FgMIQjcpvQw==
 
 date-now@^0.1.4:
   version "0.1.4"
@@ -10361,10 +10361,10 @@ react-dom@17.0.2:
     object-assign "^4.1.1"
     scheduler "^0.20.2"
 
-react-dropzone@11.4.2:
-  version "11.4.2"
-  resolved "https://registry.yarnpkg.com/react-dropzone/-/react-dropzone-11.4.2.tgz#1eb99e9def4cc7520f4f58e85c853ce52c483d56"
-  integrity sha512-ocYzYn7Qgp0tFc1gQtUTOaHHSzVTwhWHxxY+r7cj2jJTPfMTZB5GWSJHdIVoxsl+EQENpjJ/6Zvcw0BqKZQ+Eg==
+react-dropzone@11.5.1:
+  version "11.5.1"
+  resolved "https://registry.yarnpkg.com/react-dropzone/-/react-dropzone-11.5.1.tgz#f4d664437bf8af6acfccbf5040a9890c6780a49f"
+  integrity sha512-eNhttdq4ZDe3eKbXAe54Opt+sbtqmNK5NWTHf/l5d+1TdZqShJ8gMjBrya00qx5zkI//TYxRhu1d9pemTgaWwg==
   dependencies:
     attr-accept "^2.2.1"
     file-selector "^0.2.2"
