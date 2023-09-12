@@ -2365,20 +2365,20 @@
   resolved "https://registry.yarnpkg.com/@procore/core-i18n-js/-/core-i18n-js-10.27.7.tgz#8ee3e7c5441004a7a0c07ac4d53c8537a28c4d3f"
   integrity sha512-ykQV8VUhhx0Sn6uLAazTwDN1wUd+Uer7pwY+duMaIYvWQ08hZdjLBzUSwCtwgP24T2CYqN9/29xhE3C0zN28LQ==
 
-"@procore/core-icons@11.1.6":
-  version "11.1.6"
-  resolved "https://registry.yarnpkg.com/@procore/core-icons/-/core-icons-11.1.6.tgz#1b5b1bd059f4bcd6166c083fe8be6fb0a2ee9ee5"
-  integrity sha512-5Qx51JcV4RSqkO5IU/LcniS7IrhAF0GQGPqy8H6mzLlpFOwxNAaLrf5r0dYpKElujAibeX/WwpDUQCbSqmbv+w==
+"@procore/core-icons@11.2.0":
+  version "11.2.0"
+  resolved "https://registry.yarnpkg.com/@procore/core-icons/-/core-icons-11.2.0.tgz#8a7ee036f1c9cecec7c027052f8b6685af3e2205"
+  integrity sha512-0kkeynOeJ7s0Rv2SOYq1qjXCMI/x/91+y6F5QDSx62HoUgb8Tpu3UhV6S/9sCYr0/PfRuulis/RErmNf/v253Q==
 
-"@procore/core-react@11.23.4":
-  version "11.23.4"
-  resolved "https://registry.yarnpkg.com/@procore/core-react/-/core-react-11.23.4.tgz#45aff690395dbd630341e93c33c7379ec645aea5"
-  integrity sha512-mUKq9IYOFpYMl+Xqt/zMGK3T9dL2mcSt8wLrRAhnuQNYieR4VWQ5SKhuXuJgWOLmDDjaJFzygslOwColJoCaqA==
+"@procore/core-react@11.24.0":
+  version "11.24.0"
+  resolved "https://registry.yarnpkg.com/@procore/core-react/-/core-react-11.24.0.tgz#e9b5196bedca88c6ecf3d8c666dfc952c4351d2b"
+  integrity sha512-WzS27/zZRLHUrROr1WtYQ53htkTsin0Mm8QEbfOziQ0eVoxUdvENakJ3BrbD49GLr5E1jxGkaQPgUMsenys8IA==
   dependencies:
     "@floating-ui/react" "0.25.2"
     "@floating-ui/react-dom" "2.0.2"
     "@procore/core-i18n-js" "10.27.7"
-    "@procore/core-icons" "11.1.6"
+    "@procore/core-icons" "11.2.0"
     "@procore/globalization-toolkit" "2.0.0"
     "@react-aria/button" "3.6.4"
     "@react-aria/checkbox" "3.6.0"
