@@ -2370,10 +2370,10 @@
   resolved "https://registry.yarnpkg.com/@procore/core-icons/-/core-icons-11.2.0.tgz#8a7ee036f1c9cecec7c027052f8b6685af3e2205"
   integrity sha512-0kkeynOeJ7s0Rv2SOYq1qjXCMI/x/91+y6F5QDSx62HoUgb8Tpu3UhV6S/9sCYr0/PfRuulis/RErmNf/v253Q==
 
-"@procore/core-react@11.24.1":
-  version "11.24.1"
-  resolved "https://registry.yarnpkg.com/@procore/core-react/-/core-react-11.24.1.tgz#450082d324de01be167d416b278ec1d5db93159e"
-  integrity sha512-S7aUVkDo1c/4QHVLai7Zd6PD1oF+lKynWVqlBBtL8vOlFD/WCeu0a6Z4SjIr7kN/CnBdzqEGKAr1EBtP2EHF0A==
+"@procore/core-react@11.24.4":
+  version "11.24.4"
+  resolved "https://registry.yarnpkg.com/@procore/core-react/-/core-react-11.24.4.tgz#4e7448ac49c51d26130aa1644c40588994cb88f1"
+  integrity sha512-Ka0YqAwsMb6N03E572NAoN23idRx4OFNWUYsEjQ8lgqONq29zM5c4yo5yL+j3wUPfk83WiJ36/EeXFFCmhyr+g==
   dependencies:
     "@floating-ui/react" "0.25.2"
     "@floating-ui/react-dom" "2.0.2"
