@@ -11,7 +11,7 @@
     "whatwg-fetch": "^3.6.19"
   },
   "devDependencies": {
-    "gh-pages": "6.0.0"
+    "gh-pages": "6.1.1"
   },
   "homepage": ".",
   "scripts": {
